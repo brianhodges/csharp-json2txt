@@ -1,0 +1,15 @@
+﻿<Properties StartupConfiguration="{470795FF-006E-4EA2-93ED-9F1D53223867}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="csharp-json2txt/Program.cs">
+    <Files>
+      <File FileName="csharp-json2txt/Program.cs" Line="32" Column="5" />
+      <File FileName="csharp-json2txt/Person.cs" Line="4" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.csharp-json2txt PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>

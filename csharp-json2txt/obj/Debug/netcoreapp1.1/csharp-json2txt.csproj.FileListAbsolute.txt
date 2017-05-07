@@ -1,0 +1,10 @@
+/Users/Development/Projects/csharp-json2txt/csharp-json2txt/bin/Debug/netcoreapp1.1/csharp-json2txt.deps.json
+/Users/Development/Projects/csharp-json2txt/csharp-json2txt/bin/Debug/netcoreapp1.1/csharp-json2txt.runtimeconfig.json
+/Users/Development/Projects/csharp-json2txt/csharp-json2txt/bin/Debug/netcoreapp1.1/csharp-json2txt.runtimeconfig.dev.json
+/Users/Development/Projects/csharp-json2txt/csharp-json2txt/obj/Debug/netcoreapp1.1/csharp-json2txt.csprojResolveAssemblyReference.cache
+/Users/Development/Projects/csharp-json2txt/csharp-json2txt/obj/Debug/netcoreapp1.1/csharp-json2txt.csproj.CoreCompileInputs.cache
+/Users/Development/Projects/csharp-json2txt/csharp-json2txt/obj/Debug/netcoreapp1.1/csharp-json2txt.AssemblyInfo.cs
+/Users/Development/Projects/csharp-json2txt/csharp-json2txt/bin/Debug/netcoreapp1.1/csharp-json2txt.dll
+/Users/Development/Projects/csharp-json2txt/csharp-json2txt/bin/Debug/netcoreapp1.1/csharp-json2txt.pdb
+/Users/Development/Projects/csharp-json2txt/csharp-json2txt/obj/Debug/netcoreapp1.1/csharp-json2txt.dll
+/Users/Development/Projects/csharp-json2txt/csharp-json2txt/obj/Debug/netcoreapp1.1/csharp-json2txt.pdb
